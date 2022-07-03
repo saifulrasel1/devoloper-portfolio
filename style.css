@@ -13,6 +13,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom:100px;
 }
 .r{
     width:50%;
@@ -27,8 +28,27 @@ section{
     padding:10px 40px;
     border-radius: 5px;
     font-weight:700;
+    color:white;
 }
 .y{
     background-image: url(images/top-banner.png);
     background-repeat:no-repeat;
+}
+.e{
+    width:50%;
+    margin-left:5%;
+}
+section{
+    display:flex;
+}
+.e img{
+    width:71%;
+}
+.t{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+.e a{
+    margin-top:15px;
 }
